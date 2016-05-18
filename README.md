@@ -14,3 +14,5 @@ Pressure readings are plotted day by day to analyse the daily trends of pressure
 
 Result:
 It was noted that on 25/02/2016 between 1200hrs and 1500hrs there was a spike in air pressure from the normal reading of approx. 1008mb to 1022mb.
+
+![Plot](https://github.com/scotty3785/AstroPiAnalysis/blob/master/PressurePlot.png)
